@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+    <file path="/Users/eduardosilva/Pos FIAP/seguranca/fiap-application-security/lab2-sonarqube-lgtm/src/test/app.test.js">
+        <testCase name="Get Endpoints Get" duration="48"/>
+    </file>
+</testExecutions>
